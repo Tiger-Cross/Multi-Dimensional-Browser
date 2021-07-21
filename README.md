@@ -1,5 +1,5 @@
 # Multi-Dimensional-Browser
-This repository contains the source code referenced in the Final Project Report for the MDB Project. 
+This repository contains a subset of the source code for the MDB Project. 
 
 We were unable to make the entire repository public for licensing reasons. 
 
